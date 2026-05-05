@@ -16,10 +16,10 @@ A **pure-Python**, **zero-dependency** CLI tool to detect structural anomalies i
 ## Installation
 
 ```bash
-pip install git+https://github.com/songshiyu777/pe-anomaly.git
+pip install pe-anomaly
 ```
 
-Or clone and install:
+Or from source:
 
 ```bash
 git clone https://github.com/songshiyu777/pe-anomaly.git
